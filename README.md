@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Aykemat</h1>
 <h3 align="center">King of the Codes Khan of the Great Syntax Sea Father of Bugs The Crasher of the applications and the First Men Protector of the Seven Programming Languages Lord of Github</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **thesis project**
 
 - 🌱 I’m currently learning **Full-stack Web and Mobil Development**
 
