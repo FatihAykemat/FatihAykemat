@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate **whith other developers**
 
-- 💬 Don't ask me about **anything**
-
 - ⚡ Fun fact **myself**
 
 <h3 align="left">Connect with me:</h3>
